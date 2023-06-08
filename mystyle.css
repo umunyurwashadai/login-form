@@ -1,0 +1,23 @@
+body{
+	background-color: pink;
+}
+fieldset{
+	
+	margin-right:40%;
+	margin-left:40%; 
+	margin-top: 20%; 
+}
+button{
+	background-color: grey;
+	border-radius: 15%;
+}
+
+	
+form{
+	background:linear-gradient(blue,grey,pink);
+	border-color: 15%;
+}
+log-in{
+	background-color: orange;
+	border-radius: 15%;
+}
